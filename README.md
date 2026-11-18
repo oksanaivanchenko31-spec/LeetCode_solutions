@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0075-sort-colors) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0048-rotate-image) |
 ## String
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0036-valid-sudoku) |
 ## Binary Search
 |  |
 | ------- |
