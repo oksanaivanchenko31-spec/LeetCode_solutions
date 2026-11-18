@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0055-jump-game) |
 ## Math
 |  |
 | ------- |
@@ -22,9 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0091-decode-ways) |
 ## Backtracking
 |  |
 | ------- |
 | [0077-combinations](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0077-combinations) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
