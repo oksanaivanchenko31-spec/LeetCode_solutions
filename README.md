@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0091-decode-ways](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0091-decode-ways) |
 ## Dynamic Programming
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0077-combinations](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0078-subsets) |
 ## Greedy
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
