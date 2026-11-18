@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0078-subsets) |
 ## Math
 |  |
 | ------- |
@@ -29,8 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0078-subsets) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0055-jump-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
