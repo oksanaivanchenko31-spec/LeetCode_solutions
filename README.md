@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0091-decode-ways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
