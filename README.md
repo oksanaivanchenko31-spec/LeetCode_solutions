@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0078-subsets) |
+| [0120-triangle](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0162-find-peak-element) |
 ## Math
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/oksanaivanchenko31-spec/LeetCode_solutions/tree/master/0120-triangle) |
 ## Backtracking
 |  |
 | ------- |
